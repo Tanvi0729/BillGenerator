@@ -1,0 +1,2 @@
+This project helps us to switch over to Computerized billing of items in a well organised manner.
+after the billing complete , it will generate the folder and store the data in text file 
